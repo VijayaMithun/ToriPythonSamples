@@ -1,0 +1,95 @@
+IDLE- integrated Development and learning env
+
+Mostly used -
+
+Keyword - reserved words( we shouldnot use a variable ) - Orange color
+Predefined functions - pink color
+String - Green color
+Comment - Red
+
+32 - C lang
+36- Keywords
+Ascii - 0 - 255 (256)
+1-31 (Non printable characters - ctrl, shift,capslock)- 
+13-Enterkey
+8-backspace
+
+32- Spacebar
+33-126 - Alphabet,symbol and numbers
+127 - 255 - Latin lang
+
+Unicode character - All human languages
+65533- Unicode character including ascii
+--------------------------------------------------------
+NLP - Natural lang Processing .
+1. its a branch of AI and computer science
+2. By using this we can give ability to understand text and Spoken word(Human lang)
+
+3. NLTK - Natural lang ToolKit (Module)
+4. It will provide platform  to use library and will provide wordnet.
+5. Wordnet  is a large database of english
+------------------------------------------------------------
+If u create within a class - Method
+out of class - function
+
+method/function/constructor
+1. predefined
+	1. default
+	2. Parameterized (call by value, call by reference)
+
+
+2. user defined
+	1. default
+	2. Parameterized (call by value, call by reference)
+----------------------------------------------------------------
+Diff List or Array
+1. List we can add different dt . but in array we can store only same dt.
+2. List is dynamic . but array is static
+--------------------------------------------------------------
+Special datatype:
+
+List
+Tuple
+Set
+Dict
+string
+
+Python is a dynamic datatype programming lang
+a=10
+a=10.5
+----------------
+
+Two types of pre defined methods in Python
+1. Common
+2. Module/Class
+------------------------
+Module contains:
+Class, subclasses,methods, constructor, variable declaration...
+-------------------------------
+Always modules should be in small letter
+------------------------------
+
+Unit of measurement:
+
+0,1 - bit
+8 bit - 1 byte
+1024 byte - 1 kb
+1024 kb - 1mb
+1024 mb - 1 gb
+1024 gb - 1 tb
+1024 tb - 1 tettra byte
+----------------------------
+Using NLTK - 
+From the paragraph
+1. Find the verbs , list and count verb
+2. Find the nouns , list and count noun
+3. Convert all the verb as a Audio file
+4. Convert all the noun as a Separate audio file
+5. Convert verb list into handwriting format
+6. Draw a hierarichy diagram for the paragraph
+--------------------------------------------------
+
+
+
+
+

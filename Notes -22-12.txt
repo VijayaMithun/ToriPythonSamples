@@ -1,0 +1,34 @@
+Regular Experssion-
+1. RegEx
+2. RegEx  - Supports many prog lang(Java,PHP,Python,C#, javascript,etc...)
+3. Used to create pattern for matching/searching/find.
+4. Specially encoded for text strings.
+5. We need to use the module of re
+6. ReEx follows case sentitive.
+7. We can use metacharacters while creating pattern
+
+Steps to Create RegEx:
+1. Create a regular text string
+2. Apply a pattern to that text string
+3. If it ll find/match we will get the result.
+4. we can use the result.
+
+Note : Important.
+By using this we can reduce the code
+-----------------------------------------------------------------
+find all 2,3,7 letter characters
+and check the result with given starting and ending
+-----------------------------------------------------------------
+Geo Locations -
+Its a process of convert address into geo loaction.
+We can transform raw addresses into long/lati.
+
+Geopy - Module
+It is providing popular geocoding webservices
+We can coordinate address, city,country and land mark.
+-------------------------------------------------------------------------
+Exercise:
+Explore code to use Google map in python.
+Take steps to Create API Key
+
+
